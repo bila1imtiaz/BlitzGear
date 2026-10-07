@@ -1,4 +1,0 @@
-# Static front end (no build command) + serverless API in netlify/functions
-[build]
-  publish = "."
-  functions = "netlify/functions"
